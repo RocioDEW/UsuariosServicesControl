@@ -1,0 +1,23 @@
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.dll.config
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.dll
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.pdb
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\bin\Iesi.Collections.dll
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\bin\NHibernate.dll
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.dll
+c:\users\capacitciones\documents\visual studio 2015\Projects\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.pdb
+D:\DSD\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.dll.config
+D:\DSD\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.dll
+D:\DSD\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.pdb
+D:\DSD\TicketsDSD\Usuarios_SOAPService\bin\Iesi.Collections.dll
+D:\DSD\TicketsDSD\Usuarios_SOAPService\bin\NHibernate.dll
+D:\DSD\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.dll
+D:\DSD\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.pdb
+D:\DSD\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.csprojResolveAssemblyReference.cache
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.dll.config
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.dll
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\bin\Usuarios_SOAPService.pdb
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\bin\Iesi.Collections.dll
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\bin\NHibernate.dll
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.dll
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.pdb
+C:\Users\xmaop\Desktop\DSD\TicketsDSD\Usuarios_SOAPService\obj\Debug\Usuarios_SOAPService.csprojResolveAssemblyReference.cache
